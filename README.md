@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello Edua here, nice to meet you 👋
 
 <!--
 **Eduaina/Eduaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
