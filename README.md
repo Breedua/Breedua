@@ -1,9 +1,9 @@
 ### <h1 align="center">Hi 👋, I'm Edua</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Learning to build web applications and learning backend development**
+- 🔭 I’m currently working on **Learning to build web applications with frontend and backend development**
 
-- 🌱 I’m currently learning **Javascript,Tailwiind,React,Vue**
+- 🌱 I’m currently learning **Javascript,Tailwiind,React,Vue, Node, Ruby and Go**
 
 - 👯 I’m looking to collaborate on **challenging projects of interest**
 
