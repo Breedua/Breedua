@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Learning to build web applications with frontend and backend development**
 
-- 🌱 I’m currently learning **Javascript,Tailwiind,React,Vue, Node, Ruby and Go**
+- 🌱 I’m currently learning **Javascript,Tailwiind,React,Vue, Node, Ruby, Python and Go**
 
 - 👯 I’m looking to collaborate on **challenging projects of interest**
 
