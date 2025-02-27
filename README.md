@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Edua(Air-Do-Wa)</h1>
+### <h1 align="center">Hi 👋, I'm Edua(Air-Do-Wah)</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **Learning to build web applications with frontend and backend development**
