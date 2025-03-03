@@ -1,13 +1,13 @@
 ### <h1 align="center">Hi 👋, I'm Edua <p><i>(Air-Doo-Ah)</p></h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Learning to build web applications with frontend and backend development**
+- 🔭 I’m currently working on **Building intresting web applications**
 
-- 🌱 I’m currently learning **Javascript,Tailwiind,React,Vue, Node, Ruby, Python and Go**
+- 🌱 Programming in **Javascript[React and Vue],Tailwiind and Bootstrap,Node and Express.JS, Ruby[Ruby on rails], Python[Django] and Go**
 
-- 👯 I’m looking to collaborate on **challenging projects of interest**
+- 👯 I’m looking to collaborate on **Inspiring projects of interest**
 
-- 💬 Ask me about **web development**
+- 💬 Ask me about **web development and getting started learning web development**
 
 - 📫 How to reach me **eduaighalo29@gmail.com**
 
