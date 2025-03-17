@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Edua <p><i>(Air-Doo-Ah)</p></h1>
+### <h1 align="center">Hi 👋, I'm Edua <span><i>(Air-Doo-Ah.)</span></h1>
 <h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working on **Building intresting web applications**
