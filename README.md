@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Edua <span><i>(Air-Doo-Ah.)</span></h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Building intresting web applications**
+- 🔭 I’m currently working on **Building React & Vue web applications**
 
 - 🌱 Programming in **Javascript[React and Vue],Tailwiind and Bootstrap,Node and Express.JS, Ruby[Ruby on rails], Python[Django] and Go**
 
