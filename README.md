@@ -5,7 +5,7 @@
 
 - 🌱 Programming in **Javascript[React and Vue],Tailwiind and Bootstrap,Node and Express.JS, Ruby[Ruby on rails], Python[Django] and Go**
 
-- 👯 I’m looking to collaborate on **Inspiring projects**
+- 👯 I’m looking to collaborate on **Interesting Projects**
 
 - 💬 Ask me about **web development and getting started learning web development**
 
