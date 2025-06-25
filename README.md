@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building React & Vue web applications**
 
-- 🌱 Programming in **Javascript[React and Vue],Tailwiind and Bootstrap,Node and Express.JS, Ruby[Ruby on rails], Python[Django] and Go**
+- 🌱 Programming in **Javascript[React and Vue],Tailwiind and Bootstrap,Node and Express.JS, Ruby[Ruby on rails], and Python[Django]**
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
