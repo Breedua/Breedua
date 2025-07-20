@@ -1,9 +1,9 @@
 ### <h1 align="center">Hi 👋, I'm Eduaina <span><i>(Air-Doo-Ah-Ina.)</span></h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Building React & Vue web applications**
+- 🔭 I’m currently working on **Building React web applications**
 
-- 🌱 Programming in **Javascript[React and Vue],Tailwiind and Bootstrap,Node and Express.JS, Ruby[Ruby on rails], and Python[Django]**
+- 🌱 Programming in **Javascript[React and Vue],Tailwiind and Bootstrap**
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
