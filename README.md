@@ -7,12 +7,12 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 💬 Ask me about **web development and getting started learning web development**
+- 💬 Ask me about **Frontend web development and Understanding JavaScript logic**
 
 - 📫 How to reach me **eduaighalo29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Send a mail or a DM
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
