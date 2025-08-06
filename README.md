@@ -12,7 +12,7 @@
 - 📫 How to reach me **eduaighalo29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">Send a mail or a DM
+<p align="left">Send a mail or a DM on any linked SM platform
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
