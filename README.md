@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
-- 💬 Ask me about **Frontend web development and Understanding JavaScript logic**
+- 💬 Ask me about **Web development and Understanding JavaScript logic**
 
 - 📫 How to reach me **eduaighalo29@gmail.com**
 
