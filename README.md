@@ -1,4 +1,4 @@
-### <h1 align="center">Hi 👋, I'm Eduaina <span><i>(Air-Doo-Ah-Ina.)</span></h1>
+### <h1 align="center">Hi 👋, I'm Eduaina <span><i>(Err-Doo-Ah-Ina.)</span></h1>
 <h3 align="center">A Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Building React web applications**
