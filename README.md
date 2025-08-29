@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Eduaina <span><i>(Err-Doo-Ah-Ina.)</span></h1>
 <h3 align="center">A Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Building React web applications**
+- 🔭 I’m currently working on **Building JavaScript/React web applications**
 
 - 🌱 Programming in **Javascript[React and Vue],Tailwiind and Bootstrap**
 
